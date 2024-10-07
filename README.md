@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="hu">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>nyomd meg a gombot</title>
+    <title>Document</title>
 </head>
 <body>
-<a href="kezdo.html"></a>  
+    <button onclick="window.location.href='ichigo vs aizen.html';">Kattints ide</button    
 </body>
 </html>

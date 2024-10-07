@@ -6,6 +6,6 @@
     <title>nyomd meg a gombot</title>
 </head>
 <body>
-<a href="kezdo.html" button></a>  
+<a href="kezdo.html"></a>  
 </body>
 </html>
